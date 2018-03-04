@@ -168,3 +168,8 @@ textarea {
 .ba-product-slider-nav span>a:hover{
 	background-color:  #e10011;
 }
+.ba-product-slider img:hover{
+	transform: scale(1.1,1.1)
+
+}
+transform: scale(1,1);
