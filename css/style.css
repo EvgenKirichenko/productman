@@ -122,8 +122,8 @@ textarea {
 .ba-column-left{
 	display: inline-block;
 	text-align: right;
-	width: 45%;
-	margin: 0 14% 0 0;
+	width: 50%;
+	margin: 0 9% 0 0;
 	vertical-align: top;
 }
 .ba-column-right{
@@ -150,6 +150,7 @@ textarea {
 	color:  #e10011;
 	text-decoration: none;
 	margin-top: 15px;
+	padding: 5px;
 }
 .ba-link-readmore:hover{
 	color:  #eeeeee;
