@@ -123,6 +123,7 @@ textarea {
 	width: 50%;
 	margin: 0 9% 0 0;
 	vertical-align: top;
+	word-wrap: break-word;
 }
 .ba-column-right{
 	display: inline-block;
